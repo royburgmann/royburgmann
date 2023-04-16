@@ -2,6 +2,7 @@
 - Hi, I’m a student currently in my final semester of Bachelor of ICT (Information Communication Technology). I'm currently looking for a job in the IT       space. All fields of IT interest me. My Github projects utilise a variety of technologies, including XCode, Java, Android Studio, Selenium and much more.   Majority of my projects display the basics of these technologies thus far, however I'm always diving deeping to get a better understanding. I’m currently   learning data stuctures and algorithms, with the aim to reduce the complexity of my future projects. A current project I am developing is a Transport       Management Web Application. I plan to utilise selenium to accelerate the testing on the web application.  
 
 - 📫 Please view my <a href="linkedin.com/in/roy-burgmann-0a59bb228">LinkedIn</a> profile to learn more about myself and my progress.
+- Below is a variety of IT technologies I've got experience in. This experience varies from the basic fundamentals to a confident understanding.
     <h3>Programming Languages</h3>
     <img width="50px "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C_Icon">
     <img width="50px "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript_Icon">
