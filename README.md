@@ -27,7 +27,7 @@
 
 
     
-    <h3>Libraries, Tools, and Others</h3>
+    <h3 style="color:red;">Libraries, Tools, and Others</h3>
     <img width="50px "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium_Icon">
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker_Icon"> 
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux_Icon">
